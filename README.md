@@ -10,6 +10,6 @@ zip:
 you need to copy player.sqlite and paste it on DatabaseHandler.py
 
 you need to see:
-self.conn = sqlite3.connect("your path")
+self.conn = sqlite3.connect("path here")
 
 and paste your path
