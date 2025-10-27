@@ -13,3 +13,14 @@ you need to see:
 self.conn = sqlite3.connect("path here")
 
 and paste your path
+
+
+
+
+
+
+
+
+
+
+credit to BSL
